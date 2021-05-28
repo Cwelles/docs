@@ -24,3 +24,4 @@ ghost image --opa-server https://51.222.5.38:8443 alpine:latest
 ```shell
 ghost --format template --template @ghost.tpl -o report.html alpine:latest
 ```
+#oh boy
